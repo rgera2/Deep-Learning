@@ -1,4 +1,3 @@
-# Deep-Learning Projects
 This repository consists of some deep learning projects.
 # Description
 1. **CNN and Fine Tuning:** Here, we leveraged CNN and transfer learning algorithm to label the contents of the images using ResNet18 deep learning architecture by extracting features. Furthermore, test accuracy was improved from 75% to 92% by fine-tuning model’s parameters.
